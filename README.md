@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🛠  Tech Stack
+Python  JavaScript  Django  Bootstrap
+HTML  CSS  Git  GitHub  Visual Studio Code 
